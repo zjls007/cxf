@@ -1,0 +1,4 @@
+1.项目为maven项目, jdk1.6+
+2.运行命令  mvn tomcat7:run(最后一次有效运行 2016-03-29)
+3.项目中含有测试代码
+4.wsdl地址： http://localhost:8780/services/typeHandlerService?wsdl

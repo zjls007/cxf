@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/demo/bean/rest/json/adapter/JsonAdapter.java=UTF-8
+encoding//src/main/java/demo/bean/soap/adapter/ObjectListAdapter.java=UTF-8
+encoding//src/main/java/demo/webservice/service/rest/JsonRest.java=UTF-8
+encoding//src/main/java/demo/webservice/service/soap/TypeHandlerService.java=UTF-8
+encoding//src/main/java/demo/webservice/service/soap/impl/TypeHandlerServiceImpl.java=UTF-8
+encoding//src/main/test/demo/webservice/client/soap/TypeHandlerJdkClient.java=UTF-8
+encoding/<project>=UTF-8
+encoding/pom.xml=UTF-8
